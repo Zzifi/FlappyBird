@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-29:/layout/activity_login.xml",
+        "source": "com.example.myapplication.app-main-32:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-29:\\layout\\activity_game.xml",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-29:\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-29:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\layout\\activity_login.xml"
+    }
+]

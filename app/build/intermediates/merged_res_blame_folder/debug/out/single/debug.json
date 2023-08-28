@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\font_better_vcr.ttf.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\font\\better_vcr.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_gold_medal.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\gold_medal.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_platinum_medal.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\platinum_medal.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_silver_medal.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\silver_medal.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_background_night.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\background_night.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_red_bird_2.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\red_bird_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-30:/layout_activity_login.xml.flat",
+        "source": "com.example.myapplication.app-main-32:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_play.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_game_name.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\game_name.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_red_bird_1.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\red_bird_1.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_top_tube.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\top_tube.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_fly_hint.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\fly_hint.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_background_day.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\background_day.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_new_record.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\new_record.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_red_bird_3.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\red_bird_3.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_result_bar.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\result_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_bronze_medal.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\bronze_medal.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_game_over.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\game_over.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_run_background_day.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\run_background_day.png"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-30:\\drawable_bottom_tube.png.flat",
+        "source": "C:\\Users\\rogfl\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-32:\\drawable\\bottom_tube.png"
+    }
+]
