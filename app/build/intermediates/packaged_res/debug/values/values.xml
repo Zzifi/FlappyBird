@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_red">#E57453</color>
+    <string name="app_name">Flappy Bird</string>
+    <string name="back">Back</string>
+    <string name="bird">bird</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="default_web_client_id" translatable="false">805225079294-ongjm2q3n474dom9ajmnhn1u2n94cu6e.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="exit">Exit</string>
+    <string name="gcm_defaultSenderId" translatable="false">805225079294</string>
+    <string name="google_api_key" translatable="false">AIzaSyCTYpkvGevskDEmFs6-wR5z27kqRhkpEeo</string>
+    <string name="google_app_id" translatable="false">1:805225079294:android:76bf0c4487991432c620af</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCTYpkvGevskDEmFs6-wR5z27kqRhkpEeo</string>
+    <string name="google_storage_bucket" translatable="false">flappy-bird-51834.appspot.com</string>
+    <string name="ok">OK</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">flappy-bird-51834</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="title">title</string>
+    <string name="type_inscription">type_inscription</string>
+    <string name="user_name">User name</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>
