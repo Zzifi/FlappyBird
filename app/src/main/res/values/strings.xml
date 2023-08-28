@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flappy Bird</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="title">title</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="bird">bird</string>
+    <string name="type_inscription">type_inscription</string>
+    <string name="exit">Exit</string>
+    <string name="ok">OK</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="back">Back</string>
+</resources>
